@@ -1,7 +1,8 @@
 - 👋 Hi,sup guys
 -  I’m @cosmah
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning @UTAMU and ALX
+- 🌱 I’m currently pursuing a Bcs of Computer Science at @UTAMU
+-I'm also learning software engineering under ALX programme
 - 💞️ I’m looking to collaborate on DEVELOPMENT PROJECTS
 - 📫 How to reach me ...cosmahke4@gmail.com
 
