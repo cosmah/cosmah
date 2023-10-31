@@ -39,7 +39,7 @@ I'm open to collaborating on exciting development projects. Whether it's coding,
 
 ## 📫 Get in Touch
 
-Feel free to reach out to me via email at cosmahke4@gmail.com. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile), [Twitter](https://twitter.com/yourhandle), or [GitHub](https://github.com/yourusername). Let's connect and create amazing things together!
+Feel free to reach out to me via email at cosmahke4@gmail.com. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/ssekirya-cosmah-2a3083272/), [Twitter](https://twitter.com/LCosmah), [WhatsApp](https://wa.me/+256708153467), or [GitHub](https://github.com/cosmah). Let's connect and create amazing things together!
 
 <!---
 cosmah/cosmah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
