@@ -6,7 +6,7 @@ I'm Cosmah, a passionate software engineer in the making. Currently, I'm pursuin
 
 I love working with a variety of technologies, including:
 
-- ![Spring Boot](link-to-spring-boot-image)
+- ![Spring Boot](https://insource.io/images/posts/spring-boot.png)
 - ![Angular](link-to-angular-image)
 - ![Express.js](link-to-express-image)
 - ![Node.js](link-to-nodejs-image)
