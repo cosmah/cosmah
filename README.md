@@ -7,9 +7,9 @@ I'm Cosmah, a passionate software engineer in the making. Currently, I'm pursuin
 I love working with a variety of technologies, including:
 
 - ![Spring Boot](https://insource.io/images/posts/spring-boot.png)
-- ![Angular](link-to-angular-image)
-- ![Express.js](link-to-express-image)
-- ![Node.js](link-to-nodejs-image)
+- ![Angular](https://th.bing.com/th/id/OIP.u3mgmYMq4ofTd4lBtZtbxQHaD4?w=308&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7)
+- ![Express.js](https://th.bing.com/th/id/OIP.XQky1N0XySaAZjWJMmAgXgHaED?w=278&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7)
+- ![Node.js](https://th.bing.com/th/id/OIP.A68nTcvqRD1ZvVZDRtrDvwHaEK?w=324&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7)
 - ![Pug (formerly Jade)](link-to-pug-image)
 - ![MongoDB](link-to-mongodb-image)
 - ![MySQL](link-to-mysql-image)
