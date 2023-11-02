@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Cosmah, a passionate software engineer in the making. Currently, I'm pursuing a Bachelors of Computer Science at [UTAMU](https://www.utamu.ac.ug/), and I'm also part of the ALX program, where I'm honing my software engineering skills.
+I'm Cosmah, a passionate software engineer in the making. Currently, I'm pursuing a Bachelors of Computer Science at [UTAMU](https://www.utamu.ac.ug/), and I completed a certificate in software enginerring at @Refactory Academy, where I honed my software engineering skills.
 
 ---
 
