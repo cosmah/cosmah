@@ -35,7 +35,7 @@ I work with a variety of technologies, including:
 ---
 
 ## 💡 What I'm Up To
-
+[![committers.top badge](https://user-badge.committers.top/uganda/cosmah.svg)](https://user-badge.committers.top/uganda/cosmah)
 I'm open to collaborating on exciting development projects. Whether it's coding, debugging, or brainstorming, count me in!
 
 ---
