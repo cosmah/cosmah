@@ -1,49 +1,77 @@
-# Hi there! 👋
+# Hi — I’m Cosmah 👋
 
-I'm Cosmah, a passionate software engineer in the making. Currently, I have a certificate in software engineering from @Refactory Academy, where I honed my software engineering skills.
+> Building reliable, user-centered web apps. Passionate about backend systems, full-stack Java + TypeScript apps, and clean, testable code.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ssekirya-cosmah-2a3083272/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/LCosmah)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:cosmahke4@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/+256708153467)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/cosmah)
 
 ---
 
-## 🚀 My Stack
+## ✨ Quick summary
+- Software engineer — building maintainable backend services and delightful frontends.
+- Comfortable with Java (Spring Boot, Vaadin), Node/Express, Angular, and TypeScript.
+- I enjoy turning ideas into production-ready, well-tested software and learning new tools in the process.
 
-I work with a variety of technologies, including:
+---
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://insource.io/images/posts/spring-boot.png" alt="Spring Boot" width="100" height="100">
-  <img src="https://th.bing.com/th/id/OIP.u3mgmYMq4ofTd4lBtZtbxQHaD4?w=308&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Angular" width="100" height="100">
-  <img src="https://th.bing.com/th/id/OIP.XQky1N0XySaAZjWJMmAgXgHaED?w=278&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Express.js" width="100" height="100">
-  <img src="https://th.bing.com/th/id/OIP.33CwBYkmnMfpA9Djup22JwHaHa?rs=1&pid=ImgDetMain" alt="Express.js" width="100" height="100">
-  
-  
-  <img src="https://th.bing.com/th/id/OIP.Tf4BFI6846neirVSebC0vAHaEi?w=296&h=181&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="100" height="100">
-  <img src="https://th.bing.com/th/id/OIP.A68nTcvqRD1ZvVZDRtrDvwHaEK?w=324&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Angular" width="100" height="100">
-  <img src="https://th.bing.com/th/id/OIP.T64qcW7_VJGfXJSUc6QIKAHaCA?w=332&h=95&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Express.js" width="100" height="100">
-  
-  <img src="https://th.bing.com/th/id/OIP.a0fX_sFdPhpd4IasHICPbQHaEX?w=320&h=189&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Spring Boot" width="100" height="100">
-  <img src="https://th.bing.com/th/id/OIP.Uc_BvbStlOCqStQorG4ajAHaHa?w=184&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="100" height="100">
-  <img src="https://th.bing.com/th/id/OIP.iudZ1yP32cFWVCR9VGxbrQHaHa?w=184&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="100" height="100">
-  <img src="https://th.bing.com/th/id/OIP.pkqphAig1t-PCsy4dkVrfAAAAA?w=299&h=176&c=7&r=0&o=5&dpr=1.3&pid=1.7" width="100" height="100">
-  
-  <img src="https://th.bing.com/th/id/OIP.tAvAD5lCtDJSjywplxd37QHaEo?w=280&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Spring Boot" width="100" height="100">
-  <img src="https://th.bing.com/th/id/OIP.EDJ9xoErBbZqK2tExVoJfAHaHY?w=188&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Angular" width="100" height="100">
-  <img src="https://th.bing.com/th/id/OIP.wmVr1W0nuF_M_OswcpjyjgHaEc?w=291&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Express.js" width="100" height="100">
-  <img src="https://th.bing.com/th/id/OIP.1FTXsvt-uonhdxSBksSGrgHaEK?w=330&h=186&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Express.js" width="100" height="100">
-  <img src="https://vaadin.com/documents/226808/13548263/reindeer-10.png/98c59f70-515f-4ff5-a6ee-b23eeec84d7a?t=1529919458445" alt="VAADIN" width="100" height="100">
-  <!-- Add more images here -->
+## 🧰 My tech stack
+Click any logo to learn more about the tool. (Replace or reorder as you like — I can add/remove images.)
+
+<div align="center">
+  <a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="72" height="72"></a>
+  <a href="https://vaadin.com" title="Vaadin"><img src="https://seeklogo.com/images/V/vaadin-logo-0A6AA4E6E7-seeklogo.com.png" alt="Vaadin" width="72" height="72"></a>
+  <a href="https://angular.io" title="Angular"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="72" height="72"></a>
+  <a href="https://nodejs.org" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="72" height="72"></a>
+  <a href="https://expressjs.com" title="Express"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="72" height="72"></a>
+  <a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="72" height="72"></a>
+  <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="72" height="72"></a>
+  <a href="https://www.docker.com" title="Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="72" height="72"></a>
+  <a href="https://kubernetes.io" title="Kubernetes"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="72" height="72"></a>
+  <a href="https://git-scm.com" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="72" height="72"></a>
 </div>
 
 ---
 
-## 💡 What I'm Up To
-I'm open to collaborating on exciting development projects. Whether it's coding, debugging, or brainstorming, count me in!
+## 🚧 Featured projects & repositories
+I keep my repo list and pinned projects on my GitHub profile. Here are a few ways to showcase them:
+
+- Pinned projects on my GitHub: https://github.com/cosmah?tab=repositories
+- Example projects you may want to highlight here:
+  - Project A — short 1-line description, tech used, live demo link (if any)
+  - Project B — short 1-line description, tech used, notable challenges solved
+  - Project C — short 1-line description, link to README or live demo
+
+(Provide the exact repo names and one-sentence descriptions and I’ll populate this section with attractive cards and demo screenshots.)
 
 ---
 
-## 📫 Get in Touch
+## 📈 GitHub stats
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=cosmah&show_icons=true&theme=radical" alt="cosmah's GitHub stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmah&layout=compact&theme=radical" alt="cosmah's top languages" width="48%">
+</p>
 
-Feel free to reach out to me via email at cosmahke4@gmail.com. You can also connect with me on [LinkedIn](https://www.linkedin.com/in/ssekirya-cosmah-2a3083272/), [Twitter](https://twitter.com/LCosmah), [WhatsApp](https://wa.me/+256708153467), or [GitHub](https://github.com/cosmah). Let's connect and create amazing things together!
+---
 
-<!---
-cosmah/cosmah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the "Preview" link to see how I've customized my GitHub profile.
---->
+## 💬 What I'm working on
+- Currently building: backend services with Spring Boot + PostgreSQL, and single-page apps with Angular/TypeScript.
+- Always learning: deeper Cloud-native patterns (Kubernetes & observability), and improving system design skills.
+
+---
+
+## 🛠 How I work
+- Test-first where possible, focused on reliability and observability.
+- Prefer small, incremental PRs with clear commit messages.
+- I enjoy mentoring, pair-programming, and collaborative problem solving.
+
+---
+
+## 📫 Get in touch
+- Email: cosmahke4@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ssekirya-cosmah-2a3083272/
+- Twitter: https://twitter.com/LCosmah
+- WhatsApp: https://wa.me/+256708153467
+
