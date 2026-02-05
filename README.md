@@ -1,7 +1,7 @@
 # Hi — I’m Cosmah 👋
 
-I'm a passionate software engineer from **Kampala, Uganda**, building reliable backend systems, modern web applications, and developer tools.  
-I focus on **production-ready code**, great **developer experience (DX)**, and **cloud-native** practices.
+Passionate software engineer from **Kampala, Uganda** building reliable backend systems, modern web apps, developer tools, and AI-powered utilities.  
+Focused on **production-ready code**, excellent **developer experience**, and **cloud-native** workflows.
 
 Certificate in Software Engineering — Refactory Academy
 
@@ -11,12 +11,12 @@ Certificate in Software Engineering — Refactory Academy
   <img src="https://activity-graph.herokuapp.com/graph?username=cosmah&theme=react-dark" alt="Cosmah's contribution graph" width="720" />
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=cosmah&show_icons=true&theme=radical&hide_border=true" alt="Cosmah's GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmah&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=cosmah&show_icons=true&theme=radical&hide_border=true" alt="Cosmah's GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cosmah&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
   </p>
 
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cosmah&theme=dark&hide_border=true" alt="GitHub Streak" width="50%" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=cosmah&theme=dark&hide_border=true" alt="GitHub Streak" width="50%" />
   </p>
 </div>
 
@@ -28,6 +28,8 @@ Certificate in Software Engineering — Refactory Academy
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
 <a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
 <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /></a>
+<a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
+<a href="https://laravel.com"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" /></a>
 <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
 <a href="https://expressjs.com"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></a>
@@ -51,23 +53,26 @@ Certificate in Software Engineering — Refactory Academy
 
 </div>
 
-## 🔭 Featured Projects
+## 🔭 Featured Project
 
-- **[ide-updater](https://github.com/cosmah/ide-updater)**  
-  A fast CLI tool to automatically update popular Linux IDEs (VS Code, Cursor, etc.)
+- **[flowspec-cli](https://github.com/cosmah/flowspec-cli)**  
+  AI-powered CLI tool for **autonomous React test generation** using GPT-4.  
+  - Automatically generates, executes, and maintains test suites for React/Next.js apps  
+  - Intelligent file watching & incremental updates (~60% token savings)  
+  - Auto-healing for syntax/import errors  
+  - Supports popular design systems (Shadcn, MUI, Chakra, Ant Design)  
+  - Zero-config, real-time dashboard, Vitest integration  
+  → Perfect for boosting test coverage and developer productivity
 
-- **[Contacts_and_Messaging_Simulator](https://github.com/cosmah/Contacts_and_Messaging_Simulator)**  
-  Java-based console application simulating phone contacts, messaging, and user interaction
-
-→ Check out more on my [repositories page](https://github.com/cosmah?tab=repositories)
+→ More repos on my [repositories page](https://github.com/cosmah?tab=repositories)
 
 ## 💻 What I'm working on right now
 
-- Building **production-grade APIs** with **FastAPI**, **Django**, and **Spring Boot**
-- Creating **developer tools** and automation CLIs
-- Developing **full-stack applications** using **Next.js + React** + serverless backends (**Supabase** / **Firebase**)
-- Experimenting with **Go** and **Flutter** for performant and cross-platform solutions
-- Containerizing everything with **Docker**
+- **AI-powered developer tools** like Flowspec CLI for automated testing
+- **Production-grade APIs** with FastAPI, Django, Laravel, Spring Boot
+- **Full-stack apps** using Next.js + React + serverless (Supabase / Firebase)
+- **Automation** and containerized deployments with Docker
+- Exploring **Go** and **Flutter** for performant solutions
 
 ## 📫 Let's connect
 
@@ -82,4 +87,5 @@ Certificate in Software Engineering — Refactory Academy
 
 ---
 
-Made with ❤️ in Kampala, Uganda
+Made with ❤️ in Kampala, Uganda  
+[dev.flowspecai.dev](http://dev.flowspecai.dev)
