@@ -8,7 +8,7 @@ Certificate in Software Engineering — Refactory Academy
 ## ⚡ Activity & Status
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=cosmah&theme=react-dark" alt="Cosmah's contribution graph" width="720" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cosmah&theme=react-dark" alt="Cosmah's contribution graph" width="720" />
   
   <p>
     <img src="https://github-readme-stats-fast.vercel.app/api?username=cosmah&show_icons=true&theme=radical&hide_border=true" alt="Cosmah's GitHub Stats" width="48%" />
